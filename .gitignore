@@ -1,0 +1,15 @@
+*.tar
+*.tar.*
+*.jar
+*.exe
+*.msi
+*.zip
+*.tgz
+*.tlz
+*.txz
+core
+*qss
+*.deb
+*.AppImage
+*.rpm
+
