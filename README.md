@@ -21,12 +21,13 @@ AthOS **is**:
 
 #### HELP FILES
 
-More informations you can find in [HOWTO.md][1], [INSTALL.md][2], [required.md][3] and [special-cases.md][4]
+More informations you can find in [HOWTO.md][1], [INSTALL.md][2], [required.md][3], [special-cases.md][4] and [athos-commands.md][5]
 
 [1]: ./DOCS/HOWTO.md        'HOWTO.md'
 [2]: ./DOCS/INSTALL.md  "INSTALL.md"
 [3]: ./DOCS/required.md    "required.md"
-[4]: ./DOCS/special-cases.md (special-cases.md)
+[4]: ./DOCS/special-cases.md "special-cases.md"
+[5]: ./DOCS/athos-commands.md (athos-commands.md)
 
 #### TEMPLATE
 
