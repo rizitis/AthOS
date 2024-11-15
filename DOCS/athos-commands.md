@@ -13,7 +13,7 @@ Assume foo.ini is ready, to build and install foo package, command:<br>
 `athos foo`<br>
 
 
-Note: If you have patches for foo, create a **patches** folder next to foo.ini and place them there.<br>
-      If foo have depentencies make sure that you have them installed athos will find them if are installed or create an .ini file for every missing dep following **step 1** so athos can find and build them before foo. 
+Note: *If you have patches for foo, create a **patches** folder next to foo.ini and place them there.<br>
+      If foo have depentencies make sure that you have them installed athos will find them if are installed or create an .ini file for every missing dep following **step 1** so athos can find and build them before foo.* 
 
 
