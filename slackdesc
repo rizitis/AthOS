@@ -2,6 +2,11 @@
 #
 # Copyright (c) 2010 - 2022 Vasileios Porpodas
 #
+# ********************************************************************************************
+#                   ===== MODIFIED BY Ioannis Anagnostakis 2024 =====
+# Incrase "package_name_limit=30", its 2024 default shell size should not be problem now days
+# ********************************************************************************************
+#
 # Permission is hereby granted, free of charge, to any person
 # obtaining a copy of this software and associated documentation
 # files (the "Software"), to deal in the Software without
@@ -181,8 +186,8 @@ parse_input(){
         DISABLE_CHECKS="Y"
     fi
 
-    # This is an arbitrary limit to make sure that the args are passed correctly
-    package_name_limit=20
+    # Change package_name limit to 30
+    package_name_limit=30
 
     package_name="$1"
     summary="$2"
@@ -291,4 +296,3 @@ desc_lines=8
 homepage_lines=1
 
 main "$1" "$2" "$3" "$4" "$5" "$6"
-
