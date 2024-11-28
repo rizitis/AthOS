@@ -1,3 +1,6 @@
+# MOVED TO https://github.com/rizitis/PLASMA_WORLD
+
+
 # ATHOS
 
 > We\'re living the future so
